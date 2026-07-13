@@ -13,6 +13,6 @@ I am snehasis maji, B.sc. Computer science student.<br>Detail-oriented software 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sis1105&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sis1105&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=sis1105&icon=0&color=0)](https://sis1105.github.io/My-Portfolio/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
