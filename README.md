@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am snehasis maji, B.sc. Computer science student.<br>Detail-oriented software development intern skilled in web development and project management. Proficient in HTML, PHP, MySQL and python with a strong emphasis on a basic problem analysis and source code review.<br>
+I am snehasis maji, B.sc. Computer science student.<br>Web & Android Development.<br><br>Detail-oriented Web & Android development intern skilled in web $ Android development and project management. Proficient in HTML, CSS, Javascript, PHP, MySQL, python, XML, Kotlin and Firebase & Firestore with a emphasis on a basic problem analysis and source code review.<br>
 
 
 ## 🌐 Socials:
